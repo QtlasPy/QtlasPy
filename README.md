@@ -4,5 +4,6 @@
 
 <h2>Languages and tool</h2>
 <ul>
-  <li><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
+  <li><img align="left" alt="Python" width="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
+  <li><img align="left" alt="Visual Studio Code" width="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></li>
 </ul>
