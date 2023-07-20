@@ -1,7 +1,7 @@
 <h1>Atlas_Py</h1>
 
 <p>Yo, I'm Atlas Py, I'm currently in high school in 🇫🇷 and I've been doing ethical hacking for 6 months and programming, network architecture, web development, and python program for 3 years.</p>
-<p></p>My goal is to gain more experience to learn as much as possible about cybersecurity and IT in general. And to achieve my goal I do many challenges on root - me and portswigger academy and I do more and more CTF competitions.</p>
+<p></p>My goal is to gain more experience to learn as much as possible about cybersecurity and IT in general. And to achieve my goal I do many challenges on <a href="https://www.root-me.org/">Root-me</a> and <a href="https://portswigger.net/web-security">Portswigger academy</a> and I do more and more CTF competitions.</p>
 
 <h3>Main skills : </h3>
 <ul>
@@ -29,7 +29,7 @@
 <h2></h2>
 
 
-<h3>Social media : </h3>
+<h3>Where find me : </h3>
 <a href="https://www.root-me.org/Atlas_py" target="_blank"><img align="left" alt="Root-me" width="35px" src="https://www.root-me.org/IMG/siteon0.svg" />
 <a href="https://discordapp.com/users/1025438028530991175" target="_blank"><img align="left" alt="Root-me" width="35px" src="https://www.svgrepo.com/show/330307/discord.svg" />
 
