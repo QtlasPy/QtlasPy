@@ -1,6 +1,13 @@
 <h1>Atlas_Py</h1>
 
 <p>Yo, I'm Atlas Py, I'm currently in high school in 🇫🇷 and I've been doing ethical hacking for 6 months and programming, network architecture, web development, and python program for 3 years.</p>
+<p>I do </p>
+
+<h3>Actually i want: </h3>
+<ul>
+  <li>Enthusiast grad on Root-me (~9114 points )</li>
+  <li>Do some CTF regularly</li>
+</ul>
 
 <h2></h2>
 
