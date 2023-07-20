@@ -14,13 +14,13 @@
 <img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" /></br></br>
+<img align="left" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" /></br></br>
 
 <h2></h2>
 
 
 <h3>Social media : </h3>
-<img align="left" alt="Root-me" width="35px" src="https://www.root-me.org/IMG/siteon0.svg" />
+<a href="https://www.root-me.org/Atlas_py" target="_blank"><img align="left" alt="Root-me" width="35px" src="https://www.root-me.org/IMG/siteon0.svg" />
 
 
 
