@@ -2,8 +2,30 @@
 
 <p>Yo, I'm Atlas Py, I'm currently in high school in 🇫🇷 and I've been doing ethical hacking for 6 months and programming, network architecture, web development, and python program for 3 years.</p>
 
-<h2>Languages and tool</h2>
-<ul>
-  <li><img align="left" alt="Python" width="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></li>
-  <li><img align="left" alt="Visual Studio Code" width="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></li>
-</ul>
+<h2></h2>
+
+<h3>Languages and tools : </h3>
+
+<img align="left" alt="Debian" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img align="left" alt="Visual Code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
+<img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" /></br></br>
+
+<h2></h2>
+
+
+<h3>Social media : </h3>
+<img align="left" alt="Root-me" width="35px" src="https://www.root-me.org/IMG/siteon0.svg" />
+
+
+
+
+
+
+
+
