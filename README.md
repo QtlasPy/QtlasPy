@@ -1,12 +1,15 @@
 <h1>Atlas_Py</h1>
 
 <p>Yo, I'm Atlas Py, I'm currently in high school in 🇫🇷 and I've been doing ethical hacking for 6 months and programming, network architecture, web development, and python program for 3 years.</p>
-<p>I do </p>
+<p></p>My goal is to gain more experience to learn as much as possible about cybersecurity and IT in general. And to achieve my goal I do many challenges on root - me and portswigger academy and I do more and more CTF competitions.</p>
 
-<h3>Actually i want: </h3>
+<h3>Main skills : </h3>
 <ul>
-  <li>Enthusiast grad on Root-me (~9114 points )</li>
-  <li>Do some CTF regularly</li>
+  <li>Hacking / Dev web</li>
+  <li>Python (algo, games, tools...) </li>
+  <li>Linux administration</li>
+  <li>Network</li>
+  <li>Virtual Machine</li>
 </ul>
 
 <h2></h2>
