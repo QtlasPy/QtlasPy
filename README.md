@@ -1,3 +1,4 @@
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Atlas_py)
 <h1>Atlas_Py</h1>
 
 <p>Yo, I'm Atlas Py, I'm currently in high school in 🇫🇷 and I've been doing ethical hacking for 6 months and programming, network architecture, web development, and python program for 3 years.</p>
@@ -11,8 +12,6 @@
   <li>Network</li>
   <li>Virtual Machine</li>
 </ul>
-
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=dz)
 
 <h2></h2>
 
@@ -35,7 +34,7 @@
 <a href="https://www.root-me.org/Atlas_py" target="_blank"><img align="left" alt="Root-me" width="35px" src="https://www.root-me.org/IMG/siteon0.svg" />
 <a href="https://discordapp.com/users/1025438028530991175" target="_blank"><img align="left" alt="Root-me" width="35px" src="https://www.svgrepo.com/show/330307/discord.svg" />
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=dz-root)
+
 
 
 
