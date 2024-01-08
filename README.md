@@ -12,6 +12,8 @@
   <li>Virtual Machine</li>
 </ul>
 
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Atlas_py)
+
 <h2></h2>
 
 <h3>Languages and tools : </h3>
