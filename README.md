@@ -3,7 +3,7 @@
 Hi, I'm Atlas_Py, currently in high school in 🇫🇷, and I am passionate about ethical hacking. I train on <a href="https://www.root-me.org/">Root-me</a>, <a href="https://portswigger.net/web-security"> Portswigger</a> and <a href="https://app.hackthebox.com/home">Hackthebox</a>, I do some CTFs competitions and learning <strong><i>Bug-bounty hunter</i></strong> and <strong><i>Web penetration tester</i></strong> path on <a href="https:/academy.hackthebox.com">Hackthebox Academy</a>.
 
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Atlas_Py)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Atlas_Py&gstats=show&style=Dark)
 
 <h2>Languages and tools :</h2>
 
